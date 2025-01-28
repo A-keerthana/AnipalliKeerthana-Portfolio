@@ -23,13 +23,11 @@ application is to make online shopping easy and no-return convienient by providi
 ## Research Projects
 ### Project 1 : Multimodal Insider Threat Detection, National Institute of Technology(NIT), Trichy
 
-Using a neural network model, temporal dynamic transformer with attention mechanism as the data from Carnegie Mellon University dataset is time-ordered, unbalanced and supervised and is around 30-50MB large. Identifying employees behavioural patterns to prevent information being stolen. Pre-processed NLP data separately and numerical data separately using channels and classifiers and concatenated the classifiers.
-## Supervisors : Prof. R. Mohan and Prof. Sivakumar.
+Using a neural network model, temporal dynamic transformer with attention mechanism as the data from Carnegie Mellon University dataset is time-ordered, unbalanced and supervised and is around 30-50MB large. Identifying employees behavioural patterns to prevent information being stolen. Pre-processed NLP data separately and numerical data separately using channels and classifiers and concatenated the classifiers. **Supervisors:** Prof. R. Mohan and Prof. Sivakumar.
 
 ### Project 2: Privacy Attack in Reinforcement Learning, Australian Nexus Tulip Project.
 
-Using methodologies Imitation Learning(IL) and Knowledge Distillation(KD) are implemented in the widely used Gym mujoco and Atari environments. Analyzing the reward reconstruction attack, wherein seeking to reconstruct the original reward from a privacy-preserving policy using an Inverse RL algorithm. And inferring a gap between the current standard of privacy offered and the standard of privacy needed to protect reward functions in RL.
-## Supervisors : Prof. Gang Li from Deakin University and Prof. Yike Li.
+Using methodologies Imitation Learning(IL) and Knowledge Distillation(KD) are implemented in the widely used Gym mujoco and Atari environments. Analyzing the reward reconstruction attack, wherein seeking to reconstruct the original reward from a privacy-preserving policy using an Inverse RL algorithm. And inferring a gap between the current standard of privacy offered and the standard of privacy needed to protect reward functions in RL. **Supervisors:** Prof. Gang Li from Deakin University and Prof. Yike Li.
 
 ## Activities
 
