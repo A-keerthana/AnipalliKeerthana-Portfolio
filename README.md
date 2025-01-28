@@ -16,7 +16,7 @@ application is to make online shopping easy and no-return convienient by providi
 - Performed image processing tasks on data and the project “Aerial Object Detection” done using MATLAB and Python programming. Yolo, ComputerVision tools and libraries were used while working on this project and data manipulation, enhancement of image frames were performed.
 - Detected Target in UAV input vieos that were in NightVisiona nd Daylight modes. Helped in 10% quick image manipulation tasks. Gave presentations on the detectors used, model and code to EOP division. 
 
-**Python Intern @ SRM University of Science and Technology, SRMIST (_Sep 2023 - Feb 2024)**
+**Python Intern @ SRM University of Science and Technology, SRMIST (_Sep 2023 - Feb 2024_)**
 - Internship Program, SRM IST, Chennai and my supervisor was from the Department of Automobile Engineering.
 - Structured internship by all scenario-based coding questions, practiced codes in Python programming using Kattis platform and various tasks for evaluation.
 
