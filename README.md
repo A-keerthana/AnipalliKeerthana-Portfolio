@@ -21,7 +21,7 @@ application is to make online shopping easy and no-return convienient by providi
 - Structured internship by all scenario-based coding questions, practiced codes in Python programming using Kattis platform and various tasks for evaluation.
 
 ## Research Projects
-### Project 1 : Multimodal Insider Threat Detection, National Intittute of Technology(NIT), Trichy
+### Project 1 : Multimodal Insider Threat Detection, National Intitute of Technology(NIT), Trichy
 
 Using a neural network model, temporal dynamic transformer with attention mechanism as the data from Carnegie Mellon University dataset is time-ordered, unbalanced and supervised and is around 30-50MB large. Identifying employees behavioural patterns to prevent information being stolen. Pre-processed NLP data separately and numerical data separately using channels and classifiers and concatenated the classifiers.
 **Supervisors :** Prof. R. Mohan and Prof. Sivakumar.
