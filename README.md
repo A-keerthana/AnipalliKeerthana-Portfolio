@@ -1,6 +1,6 @@
 # Software Developer | IOS app Developer | AI ML Student | Data Scientist
 
-#### Technical Skills: Python, C, Swift, AWS, Google Cloud, Image Processing, Machine Learning, MATLAB.
+#### Technical Skills: Python, C, Swift, AWS, Google Cloud, Image Processing, NLP, Machine Learning, Data Science, MATLAB.
 
 ## Education							       				        		
 - B.Tech.in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning. SRM University of Science and Technology, SRMIST (2022-Present)
